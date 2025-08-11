@@ -1,0 +1,14 @@
+C:\Users\necef\OneDrive\İş masası\Task10 addition\Task10 addition\bin\Debug\net8.0\Task10 addition.exe
+C:\Users\necef\OneDrive\İş masası\Task10 addition\Task10 addition\bin\Debug\net8.0\Task10 addition.deps.json
+C:\Users\necef\OneDrive\İş masası\Task10 addition\Task10 addition\bin\Debug\net8.0\Task10 addition.runtimeconfig.json
+C:\Users\necef\OneDrive\İş masası\Task10 addition\Task10 addition\bin\Debug\net8.0\Task10 addition.dll
+C:\Users\necef\OneDrive\İş masası\Task10 addition\Task10 addition\bin\Debug\net8.0\Task10 addition.pdb
+C:\Users\necef\OneDrive\İş masası\Task10 addition\Task10 addition\obj\Debug\net8.0\Task10 addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\necef\OneDrive\İş masası\Task10 addition\Task10 addition\obj\Debug\net8.0\Task10 addition.AssemblyInfoInputs.cache
+C:\Users\necef\OneDrive\İş masası\Task10 addition\Task10 addition\obj\Debug\net8.0\Task10 addition.AssemblyInfo.cs
+C:\Users\necef\OneDrive\İş masası\Task10 addition\Task10 addition\obj\Debug\net8.0\Task10 addition.csproj.CoreCompileInputs.cache
+C:\Users\necef\OneDrive\İş masası\Task10 addition\Task10 addition\obj\Debug\net8.0\Task10 addition.dll
+C:\Users\necef\OneDrive\İş masası\Task10 addition\Task10 addition\obj\Debug\net8.0\refint\Task10 addition.dll
+C:\Users\necef\OneDrive\İş masası\Task10 addition\Task10 addition\obj\Debug\net8.0\Task10 addition.pdb
+C:\Users\necef\OneDrive\İş masası\Task10 addition\Task10 addition\obj\Debug\net8.0\Task10 addition.genruntimeconfig.cache
+C:\Users\necef\OneDrive\İş masası\Task10 addition\Task10 addition\obj\Debug\net8.0\ref\Task10 addition.dll

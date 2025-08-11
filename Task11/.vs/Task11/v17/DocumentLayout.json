@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\Task11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15032322-53CC-43B7-9C2A-F71FFC433AFE}|Task11\\Task11.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\task11\\task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15032322-53CC-43B7-9C2A-F71FFC433AFE}|Task11\\Task11.csproj|solutionrelative:task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15032322-53CC-43B7-9C2A-F71FFC433AFE}|Task11\\Task11.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\task11\\task11\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15032322-53CC-43B7-9C2A-F71FFC433AFE}|Task11\\Task11.csproj|solutionrelative:task11\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15032322-53CC-43B7-9C2A-F71FFC433AFE}|Task11\\Task11.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\task11\\task11\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15032322-53CC-43B7-9C2A-F71FFC433AFE}|Task11\\Task11.csproj|solutionrelative:task11\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15032322-53CC-43B7-9C2A-F71FFC433AFE}|Task11\\Task11.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\task11\\task11\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15032322-53CC-43B7-9C2A-F71FFC433AFE}|Task11\\Task11.csproj|solutionrelative:task11\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\Task11\\Task11\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Task11\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\Task11\\Task11\\Models\\Employee.cs",
+              "RelativeToolTip": "Task11\\Models\\Employee.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:32:33.147Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\Task11\\Task11\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "Task11\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\Task11\\Task11\\Models\\Manager.cs",
+              "RelativeToolTip": "Task11\\Models\\Manager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:47:55.828Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\Task11\\Task11\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Task11\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\Task11\\Task11\\Models\\Person.cs",
+              "RelativeToolTip": "Task11\\Models\\Person.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:29:28.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\Task11\\Task11\\Program.cs",
+              "RelativeDocumentMoniker": "Task11\\Program.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\Task11\\Task11\\Program.cs",
+              "RelativeToolTip": "Task11\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:27:59.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
